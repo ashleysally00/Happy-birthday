@@ -1,4 +1,4 @@
-# Interactive Birthday Card
+# Birthday Card Project
 
 This project is a simple yet charming interactive birthday card created using p5.js. It displays a festive "Happy Birthday" message with a cupcake emoji on a vibrant background.
 
