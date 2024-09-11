@@ -1,5 +1,7 @@
 # Interactive Birthday Card
 
+### by Ashley Rice
+
 This project is a simple cupcake on a birthday card created using p5.js. It displays a festive "Happy Birthday" message with a cupcake emoji on a vibrant background.
 
 ![Birthday Card Preview](https://github.com/ashleysally00/Happy-birthday/blob/main/p5bdaysmPNG.png)
