@@ -126,7 +126,7 @@ Contributions to improve the birthday card are welcome. Please follow these step
 
 ## License
 
-This project is open source and available under the [MIT License](https://github.com/ashleysally00/Happy-birthday/blob/main/License.txt), which you can also find [here](https://opensource.org/licenses/MIT).
+This project is open source and available under the [MIT License](https://github.com/ashleysally00/Happy-birthday/blob/main/License.txt). You can also find that license [here](https://opensource.org/licenses/MIT).
 
 ---
 
