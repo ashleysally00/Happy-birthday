@@ -124,16 +124,15 @@ Contributions to improve the birthday card are welcome. Please follow these step
 
 ## License
 
-## License
+This project is open source and available under the [MIT License](https://github.com/ashleysally00/Happy-birthday/blob/main/License.txt), which you can also find [here](https://opensource.org/licenses/MIT).
 
-This project is open source and available under the [MIT License](https://github.com/ashleysally00/Happy-birthday/blob/main/License.txt). You can also find that license [here](https://opensource.org/licenses/MIT).
+## Acknowledgements
 
----
+This project uses the [p5.js](https://p5js.org/) library, which is released under the GNU Lesser General Public License v2.1.
 
-## MIT License
-
-Copyright (c) 2024 Ashley Rice
-
----
 
 Feel free to contact the project maintainer for any questions or suggestions!
+
+
+
+
